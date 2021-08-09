@@ -14,7 +14,7 @@
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 
-# Write a simple ParDo that maps teh nput element by multiplying it by 10
+# Write a simple ParDo that maps the input element by multiplying it by 10
 
 import apache_beam as beam
 
