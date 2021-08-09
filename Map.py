@@ -15,6 +15,7 @@
 #   limitations under the License.
 
 # Implement a simple map fucntion that multiplies all input elements by 5 using Map
+
 import apache_beam as beam
 
 from log_elements import LogElements
